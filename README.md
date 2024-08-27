@@ -2,7 +2,7 @@
 
 My name is <strong>Dmitry</strong>. I'm an experienced React frontend developer dedicated to creating impactful solutions that make a difference in people's lives. With a solid foundation in addressing intricate business logic, I excel in overcoming challenges, embrace continuous learning, and have a strong enthusiasm for open-source software. Check out my projects and feel free to reach out for collaboration or feedback!
 
-<strong>My CV: [Dmitry Beskov.pdf](https://github.com/besdar/besdar.github.io/blob/master/public/Dmitry_Beskov.pdf)</strong>
+<strong>My CV: [Dmitry Beskov.pdf](https://raw.githubusercontent.com/besdar/besdar.github.io/master/public/Dmitry_Beskov.pdf)</strong>
 
 <details>
     <summary>If you're wondering why my GitHub activity looks empty, it's because...</summary>
