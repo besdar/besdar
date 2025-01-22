@@ -4,12 +4,6 @@ My name is <strong>Dmitry</strong>. I'm an experienced React frontend developer 
 
 <strong>My CV: [Dmitry Beskov.pdf](https://raw.githubusercontent.com/besdar/besdar.github.io/master/public/Dmitry_Beskov.pdf)</strong>
 
-<details>
-    <summary>If you're wondering why my GitHub activity looks empty, it's because...</summary>
-    <div>my job's GitLab activity looks like this:</div>
-    <img src="./gitlab_activity.png" width="600">
-</details>
-
 ## 🛠️ My stack
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=besdar&layout=compact)
